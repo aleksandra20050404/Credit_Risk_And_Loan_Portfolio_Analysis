@@ -1,4 +1,4 @@
-# Banking Clients Risk Analysis of Loan Return |Databricks · PySpark · Power BI
+# Client Credit Risk & Loan Portfolio Analysis | PySpark, Power BI, Python
 ---
 
 ##### This end-to-end banking analytics project delivers a comprehensive assessment of client credit risk, deposit behaviour, and loan exposure across 3,000 clients spanning 1995–2021. By engineering income and risk classification features in PySpark, the platform enables financial stakeholders to identify high-risk client profiles, evaluate loan concentration by banking relationship type, and develop data-driven strategies for credit policy optimisation and client retention.
